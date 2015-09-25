@@ -26,4 +26,10 @@
 [开发者必备](http://www.codefrom.com)|<http://www.codefrom.com/paper/iOS%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87%EF%BC%9A%E8%87%AA%E5%B7%B1%E6%80%BB%E7%BB%93%E7%9A%84iOS%E3%80%81mac%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%8F%8A%E5%BA%93>
 [黑客](http://drops.wooyun.org/) | <http://drops.wooyun.org/papers/5309>
 [WooYun知识库](http://drops.wooyun.org/)|<http://drops.wooyun.org/news/8864>
-
+[破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
+[摇滚诗人](http://cnblogs.com/biosli) | <http://feed.cnblogs.com/blog/u/35410/rss>
+[OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
+[破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
+[NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
+[Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
+[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
